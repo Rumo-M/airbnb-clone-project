@@ -48,5 +48,44 @@ A user-friendly design is critical in a booking system to:
 
 A smooth, predictable, and pleasing user experience directly influences the success of the platform.
 
+### 🎨 Figma Design Properties
+
+#### 🎨 Color Styles
+- **Primary Color:** #FF5A5F (AirBnB Red)
+- **Secondary Color:** #00A699 (Teal)
+- **Background:** #F7F7F7
+- **Text (Primary):** #484848
+- **Text (Secondary):** #767676
+
+#### 🔤 Typography
+- **Font Family:** Circular Std (or substitute: `Poppins`, `Inter`, or `Arial` if not available)
+- **Font Weights:**
+  - Regular: 400
+  - Medium: 500
+  - Bold: 700
+- **Font Sizes:**
+  - Headings: 24px – 36px
+  - Subheadings: 18px – 20px
+  - Body Text: 14px – 16px
+  - Small Text: 12px
+
+> _Note: These values are based on a typical AirBnB-style layout and should be replaced or updated based on the actual Figma file you're working with._
+
+---
+
+### 🧩 Why Identifying Design Properties is Important
+
+Understanding and identifying the design properties in a Figma mockup is crucial because:
+
+- ✅ **Consistency**: Ensures the entire UI maintains a consistent visual language across all pages.
+- ✅ **Developer Handoff**: Helps developers implement exact styling (colors, fonts, spacing) as intended.
+- ✅ **Efficiency**: Reduces time spent guessing or revising UI components during coding.
+- ✅ **User Experience**: Promotes usability and visual clarity, improving the overall experience.
+- ✅ **Scalability**: Makes it easier to scale and update the design system in the future.
+
+---
+
+
+
 
 
