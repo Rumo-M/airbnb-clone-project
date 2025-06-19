@@ -85,6 +85,21 @@ Understanding and identifying the design properties in a Figma mockup is crucial
 
 ---
 
+## 🧩 UI Component Patterns
+
+For the AirBnB Clone project, the following UI components will be created to build a modular and maintainable frontend:
+
+- **Navbar**  
+  A responsive navigation bar that includes the logo, search bar, user profile menu, and navigation links. It will adapt to different screen sizes and provide easy access to key pages.
+
+- **Property Card**  
+  A card component displaying a property’s image, title, price per night, rating, and location. This will be used in the Property Listing View to showcase available rentals in a clean, consistent layout.
+
+- **Footer**  
+  A footer component with links to important pages such as About, Help, Terms, and social media icons. It will appear on all pages and maintain consistent styling.
+
+These components will be designed to be reusable and customizable, making it easier to scale the UI as the project grows.
+
 
 
 
