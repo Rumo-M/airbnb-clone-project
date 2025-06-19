@@ -8,10 +8,12 @@ This project is a simplified clone of the AirBnB platform, built as a web applic
 - Build both the frontend and backend from scratch.
 - Gain hands-on experience in full-stack development and deployment.
 
-## 🛠 Tech Stack
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Version Control**: Git & GitHub
-- **Hosting**: Vercel (frontend), Render or Railway (backend)
+## 👥 Project Roles and Responsibilities
+
+- **Frontend Developer**: Responsible for creating the user interface using React and Tailwind CSS.
+- **Backend Developer**: Builds and maintains the API using Node.js and Express.js.
+- **Database Manager**: Manages data models and queries using MongoDB.
+- **UI/UX Designer**: Designs the overall look and feel of the application.
+- **Project Manager**: Oversees project progress, timelines, and collaboration.
+
 
